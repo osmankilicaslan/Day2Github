@@ -13,8 +13,9 @@ public class Day2GitGithub {
        git push -u origin master
     NOT: Bu iki komutu tek seferde kullandiktan sonra ikinci commitlerim icin sadece git push kullaniriz.
     6-git commit -a -m"mesaj" --> aynı anda add ve commit yapar ama öncesinde bir kez git add . kullanmak gerekir.
-   
-   NOT:Github ogrendim...
+    7-git pull --> remote repository'deki degisikligi yerele ceker.
+
+
 
      */
 
