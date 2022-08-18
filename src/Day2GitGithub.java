@@ -12,7 +12,7 @@ public class Day2GitGithub {
        git remote add origin adres    -->(github'da olusturdugumuz repository'nin adresi yazilir.
        git push -u origin master
     NOT: Bu iki komutu tek seferde kullandiktan sonra ikinci commitlerim icin sadece git push kullaniriz.
-    6-git commit -a -m"mesaj" --> aynı anda add ve commit yapar
+    6-git commit -a -m"mesaj" --> aynı anda add ve commit yapar ama öncesinde bir kez git add . kullanmak gerekir.
 
      */
 
